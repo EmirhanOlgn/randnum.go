@@ -3,9 +3,6 @@
 <p align="center"><strong>Random number guessing game with Go</strong></p>
 
 <p align="center">
-  <img alt="Language" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
-</p>
-<p align="center">
   <a href="https://opensource.org/licenses/gpl-3.0.html">
     <img alt="License" src="https://img.shields.io/github/license/emirhanolgn/randnumgo?color=success&style=for-the-badge">
   </a>
