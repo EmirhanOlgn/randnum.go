@@ -37,7 +37,7 @@ func main() {
 			difference = int(math.Abs(float64(input - randnum)))
 
 			if input == randnum {
-				fmt.Printf("You guessed correctly! You got the correct guess after %v attempts", forecast)
+				fmt.Printf("You guessed correctly! You got the correct guess after %v attempts\n", forecast)
 				break
 			}
 
